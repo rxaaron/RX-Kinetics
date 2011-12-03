@@ -1,0 +1,8 @@
+\\Dc1\Redirected Folders\ataylor\My Documents\Kinetics Current\Kinetics\Kinetics\bin\Release\NightWatch Kinetics.exe.config
+\\Dc1\Redirected Folders\ataylor\My Documents\Kinetics Current\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.exe
+\\Dc1\Redirected Folders\ataylor\My Documents\Kinetics Current\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.xml
+\\Dc1\Redirected Folders\ataylor\My Documents\Kinetics Current\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.pdb
+C:\Documents and Settings\ataylor.NIGHTWATCH\Desktop\Kinetics\Kinetics\bin\Release\NightWatch Kinetics.exe.config
+C:\Documents and Settings\ataylor.NIGHTWATCH\Desktop\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.exe
+C:\Documents and Settings\ataylor.NIGHTWATCH\Desktop\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.xml
+C:\Documents and Settings\ataylor.NIGHTWATCH\Desktop\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.pdb

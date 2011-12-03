@@ -1,0 +1,6 @@
+C:\NW Files to be Scanned\Kinetics\Kinetics\bin\Release\NightWatch Kinetics.exe.config
+C:\NW Files to be Scanned\Kinetics\Kinetics\obj\Release\Interop.SHDocVw.dll
+C:\NW Files to be Scanned\Kinetics\Kinetics\obj\Release\Kinetics.vbproj.ResolveComReference.cache
+C:\NW Files to be Scanned\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.exe
+C:\NW Files to be Scanned\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.xml
+C:\NW Files to be Scanned\Kinetics\Kinetics\obj\Release\NightWatch Kinetics.pdb

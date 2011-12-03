@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Kinetics">
+</Property><Property Name="Solution File" Value="C:\NW Files to be Scanned\Kinetics\Kinetics.sln">
+</Property><Property Name="User Options File" Value="C:\NW Files to be Scanned\Kinetics\Kinetics.suo">
+</Property><Property Name="Date" Value="Wednesday, February 25, 2009">
+</Property><Property Name="Time" Value="0:39 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Kinetics.sln" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Kinetics.suo" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics.suo">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Kinetics.vbproj" Description="Project file successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Kinetics.vbproj">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Kinetics.vbproj.user" Description="Project user file successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Kinetics.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form1.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form1.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form2.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form2.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form3.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form3.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form3.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form3.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form4.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form4.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form4.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form4.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form5.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form5.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form5.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form5.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form6.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form6.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form6.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form6.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\PharmCalc.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\PharmCalc.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Application.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Settings.vb" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Settings.vb">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\app.config" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\app.config">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Kinetics_TemporaryKey.pfx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Kinetics_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Application.myapp" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Settings.settings" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form1.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form2.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\Resources.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Resources\nightwatch.jpg" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Resources\nightwatch.jpg">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form3.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Resources\nightwatch.ico" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Resources\nightwatch.ico">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form4.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Resources\scissors2.gif" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Resources\scissors2.gif">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form5.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form5.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Form6.resx" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Form6.resx">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Resources\calendar2.gif" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\Resources\calendar2.gif">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\My Project\app.manifest" Description="File successfully backed up as C:\NW Files to be Scanned\Kinetics\Backup\Kinetics\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Kinetics.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Kinetics" Source="Kinetics\Kinetics.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Kinetics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Kinetics.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Kinetics" Source="Kinetics\Kinetics.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

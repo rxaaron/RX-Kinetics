@@ -1,0 +1,56 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Kinetics.vbproj.GenerateResource.Cache
+obj\Debug\Interop.SHDocVw.dll
+obj\Debug\Kinetics.vbproj.ResolveComReference.cache
+bin\Debug\Interop.SHDocVw.dll
+bin\Release\Interop.SHDocVw.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.SHDocVw.dll
+obj\Release\Kinetics.vbproj.ResolveComReference.cache
+obj\Release\Kinetics.vbproj.GenerateResource.Cache
+bin\Release\NightWatch Kinetics.exe.manifest
+bin\Release\NightWatch Kinetics.application
+bin\Release\NightWatch Kinetics.exe
+bin\Release\NightWatch Kinetics.pdb
+bin\Release\NightWatch Kinetics.xml
+obj\Release\NWKinetics.nightwatch.jpg
+obj\Release\NWKinetics.nightwatch.ico
+obj\Release\NWKinetics.scissors2.gif
+obj\Release\NWKinetics.FrmUserAgreement.resources
+obj\Release\NWKinetics.FrmCalculator.resources
+obj\Release\NWKinetics.Resources.resources
+obj\Release\NWKinetics.FrmNoteData.resources
+obj\Release\NightWatch Kinetics.TrustInfo.xml
+obj\Release\NightWatch Kinetics.exe.manifest
+obj\Release\NightWatch Kinetics.application
+obj\Release\NightWatch Kinetics.exe
+obj\Release\NightWatch Kinetics.xml
+obj\Release\NightWatch Kinetics.pdb
+bin\Debug\NightWatch Kinetics.exe.manifest
+bin\Debug\NightWatch Kinetics.application
+bin\Debug\NightWatch Kinetics.exe
+bin\Debug\NightWatch Kinetics.pdb
+bin\Debug\NightWatch Kinetics.xml
+obj\Debug\NWKinetics.nightwatch.jpg
+obj\Debug\NWKinetics.nightwatch.ico
+obj\Debug\NWKinetics.scissors2.gif
+obj\Debug\NWKinetics.FrmUserAgreement.resources
+obj\Debug\NWKinetics.FrmCalculator.resources
+obj\Debug\NWKinetics.Resources.resources
+obj\Debug\NWKinetics.FrmNoteData.resources
+obj\Debug\NightWatch Kinetics.TrustInfo.xml
+obj\Debug\NightWatch Kinetics.exe.manifest
+obj\Debug\NightWatch Kinetics.application
+obj\Debug\NightWatch Kinetics.exe
+obj\Debug\NightWatch Kinetics.xml
+obj\Debug\NightWatch Kinetics.pdb
+bin\Release\NightWatch Kinetics.exe.config
+obj\Release\NWKinetics.FrmOptions.resources
+obj\Release\NWKinetics.calendar2.gif
+obj\Release\NWKinetics.FrmDatePicker.resources
+obj\Release\NWKinetics.FrmCustomTheme.resources
+bin\Debug\NightWatch Kinetics.exe.config
+obj\Debug\NWKinetics.calendar2.gif
+obj\Debug\NWKinetics.FrmOptions.resources
+obj\Debug\NWKinetics.FrmDatePicker.resources
+obj\Debug\NWKinetics.FrmCustomTheme.resources

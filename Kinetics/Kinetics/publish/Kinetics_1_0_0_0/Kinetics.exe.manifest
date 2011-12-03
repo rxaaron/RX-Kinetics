@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="Kinetics.exe" version="1.0.0.0" publicKeyToken="4d4ab1fe797faac1" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\nightwatch.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Kinetics" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Kinetics.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site">
+          <IPermission class="System.Security.Permissions.EnvironmentPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Read="USERNAME" />
+          <IPermission class="System.Security.Permissions.FileDialogPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Unrestricted="true" />
+          <IPermission class="System.Security.Permissions.IsolatedStorageFilePermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Allowed="AssemblyIsolationByUser" UserQuota="9223372036854775807" Expiry="9223372036854775807" Permanent="True" />
+          <IPermission class="System.Security.Permissions.ReflectionPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Flags="ReflectionEmit" />
+          <IPermission class="System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Flags="UnmanagedCode, Execution" />
+          <IPermission class="System.Security.Permissions.UIPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Unrestricted="true" />
+          <IPermission class="System.Net.DnsPermission, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" version="1" Unrestricted="true" />
+          <IPermission class="System.Drawing.Printing.PrintingPermission, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" version="1" Level="DefaultPrinting" />
+        </PermissionSet>
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.SHDocVw.dll" size="126976">
+      <assemblyIdentity name="Interop.SHDocVw" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>k/5vtfqQaOTa+9x1tkGqaP0N2zg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kinetics.exe" size="802816">
+      <assemblyIdentity name="Kinetics" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AL5I9+9QomF4oPAnXjzD4euNgRs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\nightwatch.ico" size="84126">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6NnQn5cAhNVyauHIEAm4Sx216ys=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=COLONY\ataylor" issuerKeyHash="ce72e8cda2157b94ff7d9cf48cee9f4e82e6799a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>39t7cGbrd9iSiGKsQ3SJ5mqgFT0=</DigestValue></Reference></SignedInfo><SignatureValue>BGtIrnKou8AQh4Lw0B5lT3AxhaX9W2S9BBOLAgtlmabFM3T67iHVxBQFJw15NPykvvdqR4jdwnNzizOETnjzqyQpN8cuyzgfHeGmZ6KiEk68XphhG5MxWyb5d4sT00wgAkxWwTDMV1ROZb0zQii/D6hW9Ji86O9p4QZ4eLnYCL0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2x1/C4VRa6POV+25Fl8vfkOaJIsGCTsU8UFS1nJqslOkUah8NY6sNITvi3vg0PxCQXEbSjMAt63+hle6FfXQFz+7YQFl3QYc7rCQ9mk4NacrgfcDXUUngAhds8cCwOb3lizDFsRQpGAaoSM6SFqK2fPC2dEQluTUEnIBnSewuZ0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3d15a06ae6897443ac628892d877eb66707bdbdf" Description="" Url=""><as:assemblyIdentity name="Kinetics.exe" version="1.0.0.0" publicKeyToken="4d4ab1fe797faac1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=COLONY\ataylor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>N++ZhBoSSKe7J5HIpNpOMeaSQaM=</DigestValue></Reference></SignedInfo><SignatureValue>Pag/XuN6PYdMWW/35G+ClCi/Zl2jnfoiPKHQDKguojo2MpVBmsoTGexMBhEBKgcdG/3Syj9LJ9fifZIXaTRaGvVchwAgc0v3g0fpuupT7nEdcSIeWlmbaOm47MqKh0v2aNG9yrL9supuq++K92v1HqLoFZFaOLHHuKksIezZjh4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2x1/C4VRa6POV+25Fl8vfkOaJIsGCTsU8UFS1nJqslOkUah8NY6sNITvi3vg0PxCQXEbSjMAt63+hle6FfXQFz+7YQFl3QYc7rCQ9mk4NacrgfcDXUUngAhds8cCwOb3lizDFsRQpGAaoSM6SFqK2fPC2dEQluTUEnIBnSewuZ0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATagAwIBAgIQ6sSwBGyfW5RNXi2uZpr1ETAJBgUrDgMCHQUAMCcxJTAjBgNVBAMeHABDAE8ATABPAE4AWQBcAGEAdABhAHkAbABvAHIwHhcNMDcwODAyMTAxNTQwWhcNMDgwODAxMTYxNTQwWjAnMSUwIwYDVQQDHhwAQwBPAEwATwBOAFkAXABhAHQAYQB5AGwAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDbHX8LhVFro85X7bkWXy9+Q5okiwYJOxTxQVLWcmqyU6RRqHw1jqw0hO+Le+DQ/EJBcRtKMwC3rf6GV7oV9dAXP7thAWXdBhzusJD2aTg1pyuB9wNdRSeACF2zxwLA5veWLMMWxFCkYBqhIzpIWorZ88LZ0RCW5NQScgGdJ7C5nQIDAQABMAkGBSsOAwIdBQADgYEApYK4I6owjtwETejyQwptXHNXan/raC6dXnOZeCooEjdMcboR6r2MfDEN3wPUYbMstqM7S5wdXbRq98WNQSxsf0gv/FKoENgAqY0Zt0sF/ANgi7oSFN5W2ynZiaHz+c/tMAe3W6NiPw/3pGb+kqbUPoYDHsiP4ffkCfw1mEn7pso=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
